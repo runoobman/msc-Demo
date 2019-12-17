@@ -194,8 +194,4 @@ SpringCloud Config 客户端：
 
 ![](https://i.imgur.com/CgrUIwL.png)
 
-# 最后 #
-
-获取更多**原创文章**，公众号：Java3y
-
 

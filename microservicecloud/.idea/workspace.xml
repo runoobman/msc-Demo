@@ -321,6 +321,12 @@
       </list>
     </option>
     <option name="contentProportion" value="0.30143806" />
+    <!--开启RunDashboard-->
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
   </component>
   <component name="RunManager" selected="Spring Boot.Config_Git_EurekaServerApplication">
     <configuration default="true" type="Applet" factoryName="Applet">

@@ -6,7 +6,6 @@ feign:
   hystrix: 
     enabled: true
 
-
 # 配置集群eureka注册中心
 eureka:
   client:
