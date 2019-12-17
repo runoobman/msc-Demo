@@ -51,29 +51,29 @@ CREATE TABLE Dept
 ```sql
 -- database 1
 
-INSERT INTO dept (deptno, dname, db_source) VALUES (1, 'Java1y', '1');
-INSERT INTO dept (deptno, dname, db_source) VALUES (2, 'Java2y', '1');
-INSERT INTO dept (deptno, dname, db_source) VALUES (3, 'Java3y', '1');
-INSERT INTO dept (deptno, dname, db_source) VALUES (4, 'Java4y', '1');
-INSERT INTO dept (deptno, dname, db_source) VALUES (5, 'Java5y', '1');
+INSERT INTO dept (deptno, dname, db_source) VALUES (1, 'cloud1', '1');
+INSERT INTO dept (deptno, dname, db_source) VALUES (2, 'cloud2', '1');
+INSERT INTO dept (deptno, dname, db_source) VALUES (3, 'cloud3', '1');
+INSERT INTO dept (deptno, dname, db_source) VALUES (4, 'cloud4', '1');
+INSERT INTO dept (deptno, dname, db_source) VALUES (5, 'cloud5', '1');
 
 -- database 2
 
 
-INSERT INTO dept (deptno, dname, db_source) VALUES (1, 'Java1y', '2');
-INSERT INTO dept (deptno, dname, db_source) VALUES (2, 'Java2y', '2');
-INSERT INTO dept (deptno, dname, db_source) VALUES (3, 'Java3y', '2');
-INSERT INTO dept (deptno, dname, db_source) VALUES (4, 'Java4y', '2');
-INSERT INTO dept (deptno, dname, db_source) VALUES (5, 'Java5y', '2');
+INSERT INTO dept (deptno, dname, db_source) VALUES (1, 'cloud1', '2');
+INSERT INTO dept (deptno, dname, db_source) VALUES (2, 'cloud2', '2');
+INSERT INTO dept (deptno, dname, db_source) VALUES (3, 'cloud3', '2');
+INSERT INTO dept (deptno, dname, db_source) VALUES (4, 'cloud4', '2');
+INSERT INTO dept (deptno, dname, db_source) VALUES (5, 'cloud5', '2');
 
 -- database 3
 
 
-INSERT INTO dept (deptno, dname, db_source) VALUES (1, 'Java1y', '3');
-INSERT INTO dept (deptno, dname, db_source) VALUES (2, 'Java2y', '3');
-INSERT INTO dept (deptno, dname, db_source) VALUES (3, 'Java3y', '3');
-INSERT INTO dept (deptno, dname, db_source) VALUES (4, 'Java4y', '3');
-INSERT INTO dept (deptno, dname, db_source) VALUES (5, 'Java5y', '3');
+INSERT INTO dept (deptno, dname, db_source) VALUES (1, 'cloud1', '3');
+INSERT INTO dept (deptno, dname, db_source) VALUES (2, 'cloud2', '3');
+INSERT INTO dept (deptno, dname, db_source) VALUES (3, 'cloud3', '3');
+INSERT INTO dept (deptno, dname, db_source) VALUES (4, 'cloud4', '3');
+INSERT INTO dept (deptno, dname, db_source) VALUES (5, 'cloud5', '3');
 ```
 
 # 二、模块之间解释 #
